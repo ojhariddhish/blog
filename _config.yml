@@ -18,6 +18,7 @@ url:                 https://ojhariddhish.github.io/blog/
 paginate:            1
 baseurl:             https://ojhariddhish.github.io/blog/
 
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
