@@ -14,7 +14,7 @@ relative_permalinks: false
 # Setup
 title:               Riddhish Ojha
 tagline:             Android, Java, Kotlin, Git, Blogging & More
-url:                 https://ojhariddhish.github.io/blog
+url:                 blog
 paginate:            1
 baseurl:             ''
 
